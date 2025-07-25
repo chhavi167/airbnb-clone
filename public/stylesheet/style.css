@@ -1,0 +1,16 @@
+.navbar{
+    height : 5rem;
+    background: #fffefe;
+
+}
+.fa-compass{
+    color : rgb(204, 0, 0);
+    font-size: 2rem;
+}
+.nav-link{
+    color : rgb(22, 21, 21) !important; 
+}
+
+f-info-links{
+    text-decoration: none;
+}
